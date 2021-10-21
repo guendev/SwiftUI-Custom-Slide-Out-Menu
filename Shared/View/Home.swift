@@ -70,7 +70,7 @@ struct HomePage: View {
                             .fontWeight(.bold)
                             .foregroundColor(.primary)
                         
-                        Text("iJustine's Sister, YoutTuber ,Techie....")
+                        Text("PUBG, YoutTuber ,Techie....")
                             .font(.caption)
                             .fontWeight(.semibold)
                             .foregroundColor(.gray)
